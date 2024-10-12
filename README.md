@@ -17,11 +17,11 @@ Step-6:Define a function to plot the decision boundary and predict the Regressio
 Step-7: End
 ## Program:
 ```
-/*
+
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Nisha D
 RegisterNumber:212223230143
-*/
+
 ```
 ```
 import numpy as np
